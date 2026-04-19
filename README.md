@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=900&lines=Initializing+systems...;AI+%C3%97+Blockchain+%C3%97+Data+Stack...;Secure,+scalable,+real-world+solutions..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=900&lines=Initializing+systems...;AI+%C3%97+Blockchain+%C3%97+Data+Stack...;Secure,+scalable,+real,+solutions.." />
 
 <br>
 
